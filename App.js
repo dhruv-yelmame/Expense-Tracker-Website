@@ -131,7 +131,7 @@ function handleSubmit(e) {
     ConfirmPasCritFul == true &&
     UserExist == false
   ) {
-    alert("Welcome to Vinayan's Family, You are now our user");
+    alert("Welcome to Dhruv's Family, You are now our user");
     //window.location.href = "./index.html";
     //if everyting is correct, now will send this data to the local storage
     const usersCredentials =
